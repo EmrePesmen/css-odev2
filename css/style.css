@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sablon{
+    width: 90%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+/* Header Kısmı */
+
+header{
+    width: 90%;
+    height: 113px;
+    margin: auto;
+}
+
+.logo{
+    width: 351px;
+    height: 113px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Nav Kısmı */
+
+nav{
+    background-color: #EEEEEE;
+    width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar{
+    background-color: #EEEEEE;
+    width: 35%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Article Kısmı */
+
+article{
+    width: 90%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+}
+
+.kutu1{
+    background-color: turquoise;
+    width: 38%;
+    height: 70px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 2px;
+}
+
+.kutu2{
+    background-color: mediumturquoise;
+    width: 17%;
+    height: 78px;
+    float: left;
+    text-align: center;
+    padding-top: 2px;
+}
+
+.kutu3{
+    background-color: lightseagreen;
+    width: 44.6%;
+    height: 80px;
+    float: right;
+    text-align: center;
+    margin-left: 2px;
+}
+
+/* Footer Kısmı */
+
+footer{
+    width: 90%;
+    height: auto;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.yazi{
+    font-size: small;
+}
